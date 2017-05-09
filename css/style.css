@@ -1,0 +1,21 @@
+body {
+  font-size: 14px;
+  line-height: 30px;
+  color: #464646;
+  font-weight: lighter;
+  font-family: "Open Sans";
+}
+
+.slider-popular_title {
+  font-size: 47px;
+  color: black;
+  font-weight: bolder;
+  font-family: "Gilroy ExtraBold";
+}
+
+.slider-service_title{
+  font-size: 18px;
+  color: black;
+  font-weight: bolder;
+  font-family: "Gilroy ExtraBold";
+}
